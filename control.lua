@@ -47,7 +47,7 @@ function player_can_debug(player_index)
         return true
     else
         local player = game.players[player_index]
-        return (player and player.permission_group and player.permission_group.allows_action(defines.server_command))
+        return player and player.admin
     end
 end
 

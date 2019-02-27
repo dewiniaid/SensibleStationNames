@@ -13,7 +13,7 @@ data:extend{
         name = "SensibleStationNames_allow-debug",
         setting_type = "runtime-global",
         order = 100,
-        default_value = 'console',
-        allowed_values = {'nobody', 'console', 'everybody'},
+        default_value = 'admins',
+        allowed_values = {'nobody', 'admins', 'everybody'},
     }
 }
