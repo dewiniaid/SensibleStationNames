@@ -43,10 +43,11 @@ discussion page, and messages posted there will likely be ignored.**
  
 ## Changelog
 
+### 0.1.2 (2020-01-31)
+* **Update for Factorio 0.18**
+
 ### 0.1.1 (2019-02-26)
- 
-* First release.
+* **Update for Factorio 0.17**
 
 ### 0.1.0 (2017-12-23)
- 
 * First release.

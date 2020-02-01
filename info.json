@@ -1,11 +1,11 @@
 {
     "name": "SensibleStationNames",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "title": "Sensible Station Names",
     "author": "Dewin",
     "contact": "https://github.com/dewiniaid/SensibleStationNames",
     "homepage": "https://github.com/dewiniaid/SensibleStationNames",
-    "factorio_version": "0.17",
-    "dependencies": ["base >= 0.17"],
+    "factorio_version": "0.18",
+    "dependencies": ["base >= 0.18"],
     "description": "Attempts to name newly-placed train stops based on nearby features."
 }
